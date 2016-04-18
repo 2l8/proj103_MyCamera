@@ -1,1 +1,0 @@
-# proj103_MyCamera
